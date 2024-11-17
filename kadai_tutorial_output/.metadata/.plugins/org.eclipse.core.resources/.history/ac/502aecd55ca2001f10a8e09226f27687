@@ -1,0 +1,18 @@
+spring.application.name=samuraitravel
+
+
+ spring.datasource.url=jdbc:mysql://localhost:3306/samuraitravel_db
+ spring.datasource.username=root
+ spring.datasource.password=9eRxj!*$~X7-
+ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+ spring.sql.init.encoding=utf-8
+ spring.sql.init.mode=always
+ 
+  spring.mail.host=sandbox.smtp.mailtrap.io
+ spring.mail.port=2525
+ spring.mail.username=06c74591135f8d
+ spring.mail.password=********9d9e
+ spring.mail.properties.mail.smtp.auth=true
+ spring.mail.properties.mail.smtp.starttls.enable=true
+ 
+ spring.servlet.multipart.max-file-size=5MB
