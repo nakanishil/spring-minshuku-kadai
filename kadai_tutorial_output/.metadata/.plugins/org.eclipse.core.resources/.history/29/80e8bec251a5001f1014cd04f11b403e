@@ -34,7 +34,7 @@
 					    <span class="navbar-toggler-icon"></span>
 					</button>
 
-					< class="collapse navbar-collapse" id="navbarSupportedContent">                                    
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">                                    
 					    <ul class="navbar-nav ms-auto">    
 					        <!-- 未ログインであれば表示する -->
 					        <li class="nav-item" sec:authorize="isAnonymous()">
